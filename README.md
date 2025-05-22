@@ -4,10 +4,10 @@ Ce projet est une API basée sur Flask pour la détection d’objets à l’aide
 Avant de démarrer le serveur, vous devez télécharger les fichiers YOLO suivants :
 
 
-Cfg: https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.cfg
+Cfg
 
 
-Weigths (246Mo): https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+Weigths (246Mo)
 
 
-Coco names: https://github.com/pjreddie/darknet/blob/master/data/coco.names
+Coco names
